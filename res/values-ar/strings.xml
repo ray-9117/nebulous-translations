@@ -26,7 +26,7 @@
     <string name="Are_You_Sure_">"هل أنت متأكد؟"</string>
     <string name="Yes">"نعم"</string>
     <string name="No">"لا"</string>
-    <string name="WAIT">"انتظر …"</string>
+    <string name="WAIT">"إنتظر …"</string>
     <string name="Must_Specify_Name_">"يجب تحديد الإسم."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
@@ -39,7 +39,7 @@
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"خمول"</string>
     <string name="Name_Invalid_">"الإسم غير صالح !"</string>
-    <string name="Name_Taken_">"الاسم مستعمل."</string>
+    <string name="Name_Taken_">"الإسم مستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
     <string name="PLAYING">"في طور اللعب"</string>
@@ -48,7 +48,7 @@
     <string name="JOIN">"إنضم"</string>
 
 
-    <string name="Lobby_Name">"أسم السيرفر"</string>
+    <string name="Lobby_Name">"إسم السيرفر"</string>
     <string name="Not_found_">"لم يتم العثور عليه."</string>
 
     <string name="Hidden">"مخفي"</string>
@@ -707,7 +707,7 @@
     <string name="Collect_5_000_notes_">"جمع 5000 من رموز الموسيقى."</string>
     <string name="Collect_10_000_notes_">"جمع 10،000 من رموز الموسيقى."</string>
     <string name="notes_">"رموز الموسيقى."</string>
-    <string name="CLICK_CHEAT_DETECTED_">"اتم إكتشاف برنامج غش!"</string>
+    <string name="CLICK_CHEAT_DETECTED_">"تم إكتشاف برنامج غش!"</string>
     <string name="Pumpkin_Hoarder">"مكدس اليقطين"</string>
     <string name="Pumpkin_Mogul">"ملك تجميع اليقطين"</string>
     <string name="Leaf_Mogul">"ملك تجميع الأوراق"</string>
@@ -1184,7 +1184,7 @@
     <string name="Giveaways_">!هدايا</string>
     <string name="Max_XP_Chain_">:سلسلة الخبرة القصوى</string>
     <string name="POSITION_CANCEL_BUTTON">الغاء موقع الزر</string>
-    <string name="INVISIBILITY">خاصية الاخفاء</string>
+    <string name="INVISIBILITY">خاصّية الإخفاء</string>
     <string name="Set_Skin">وضع البشرة </string>
     <string name="Primary">ابتدائي )اساسي)</string>
     <string name="Secondary">ثانوي</string>
@@ -1192,18 +1192,18 @@
 
     <string name="Enable__Multiskin">"تفعيل \n متعددة الجلد"</string>
     <string name="MULTISKIN">مُتعددة الجِلد</string>
-    <string name="DISABLED">الغاء التفعيل</string>
+    <string name="DISABLED">إلغاء التفعيل</string>
 
-    <string name="Refund__Multiskin">استعادة نقودك /nMultiskin</string>
-    <string name="Invalid_Clan_ID_">اسم العشيرة غير صالح</string>
+    <string name="Refund__Multiskin">إستعادة نقودك /nMultiskin</string>
+    <string name="Invalid_Clan_ID_">إسم العشيرة غير صالح</string>
     <string name="MUTED">"حُظِر من الدَردَشة"</string>
     <string name="SKIN">سكن</string>
     <string name="Choose_Skin_Size">اختر حجم سكنك</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">لن يتمكن اللاعبين الاخرين من سماعك!</string>
     <string name="Allow_permission_to_enable_voice_recording_">السماح بأذن لتمكين التسجيل الصوتي</string>
-    <string name="voice_chat_prompt">للحصول على أفضل صوت أستخدم سماعة الرأس..</string>
+    <string name="voice_chat_prompt">للحصول على أفضل صوت إستخدم سماعة الرأس..</string>
     <string name="Only_leader_can_answer_requests_">"فَقط القائد يستطيع قبول الطلبات</string>
-    <string name="Sent_request_not_invited_">تم ارسال طلبك (لست مدعو).</string>
+    <string name="Sent_request_not_invited_">تم ارسال طلبك (لستَ مدعو).</string>
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">أحذف السكن من المُجتمع!</string>
     <string name="This_cannot_be_undone_">هذه لا يمكن التراجع عنها.!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">شاهد فيديو للحصول على مكافآة  %d مؤقتة!</string>
@@ -1218,13 +1218,13 @@
     <string name="RECEIVE_PLASMA">تلقي البلازما</string>
     <string name="MULTIBLOB">مُتعددة النُسَخ</string>
     <string name="Play_Nebulous_For_1_Year_">ألعب نيبلوس لمُدَّة 1 سنة!</string>
-    <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d سنة!</string>
+    <string name="Play_Nebulous_For_X_Years_">ألعب نيبلوس لمُدَّة %d سنة!</string>
     <string name="Starting___">بدء…</string>
-    <string name="Tournament_Starting">البُطولة بدأءت</string>
+    <string name="Tournament_Starting">البُطولة بدأت</string>
     <string name="Max_Tilt_Angle_3D_">زاوية الميل القصوى ثلاثي الأبعاد</string>
     <string name="Mode_3D">وضع ثلاثي الأبعاد</string>
     <string name="Names_Below_Blobs">معلومات اللاعب تحت الدائرة</string>
-    <string name="Name_Scale_">"مقياس الأسم:"</string>
+    <string name="Name_Scale_">"مقياس الإسم:"</string>
     <string name="Button_3D">زر ثلاثي الأبعاد</string>
     <string name="Hide_Button_">أخفاء زر?</string>
     <string name="Show_Boost_Button">إظهار زر التعزيز</string>
@@ -1238,12 +1238,12 @@
     <string name="Collisions_">تَعارُض:</string>
     <string name="Absorbed_">مُنهَمِك:</string>
     <string name="team_warning">" جعل خصمُك من الفريق سيؤدي ذلك إلى حظرك من اللعبة."</string>
-    <string name="Search_Filter">تصفيّة البَحِث</string>
-    <string name="Received_">تم الاستلام:</string>
+    <string name="Search_Filter">تصفية البَحِث</string>
+    <string name="Received_">تم الإستلام:</string>
     <string name="Opponent_Rating_Limit_">حد تصنيف الخصم</string>
-    <string name="TOGGLE_FAVORITE">تبديل المُفَضلة</string>
-    <string name="Favorited">مُفضَل</string>
-    <string name="Unfavorited">غير مُفضل</string>
+    <string name="TOGGLE_FAVORITE">تبديل المُفَضّلة</string>
+    <string name="Favorited">مُفضَّل</string>
+    <string name="Unfavorited">غير مُفضَّل</string>
     <string name="Background_Scale_">حَجِم الخلفيّة:</string>
     <string name="Background_Lightness_">شفافيّة الخلفيّة:</string>
     <string name="Background_Image_">الصورة الخلفيّة:</string>
@@ -1257,7 +1257,7 @@
     <string name="HERO">محارب</string>
     <string name="CHAMPION">بطل</string>
     <string name="DASH">إندفاع</string>
-    <string name="setting_changed">تحديث الضبط، قد تحتاج إلى إعادة الأتصال بالخادم حتى يتم تفعيله.</string>
+    <string name="setting_changed">تحديث الضبط، قد تحتاج إلى إعادة الإتصال بالخادم حتى يتم تفعيله.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">قم بفِعل 10،000 ترك في طور الحركات.</string>
     <string name="Tricky">مخادع</string>
     <string name="SUPPORTER">مميز</string>
@@ -1289,10 +1289,10 @@
     <string name="Custom_Skin_Reviewed_Notification">لقد قمنا بمُراجعة سكنك!</string>
     <string name="You_Have_Mail_">لديك رسالة من %s!</string>
     <string name="Clan_Request_Reviewed_Notification">طلبك للإنضمام للعشيرة %s تمَّت مُراجعتهُ!</string>
-    <string name="CRAZY_SPLIT">انقسام مجنونx</string>
+    <string name="CRAZY_SPLIT">إنقسام مجنونx</string>
     <string name="Sold_Community_Skins_">"سكنّات المُجتمع المُباعةُ: "</string>
     <string name="Estimated_Earnings_">"الأرباح المُتوقعة: "</string>
-    <string name="South_Africa">جَنوب أفريقيّا</string>
+    <string name="South_Africa">جَنوب أفريقيا</string>
     <string name="SPLIT_">قسْمَةُ:</string>
     <string name="WALLS">جُدران</string>
     <string name="COMP_BANNED">"حُظِر من الحَلبة</string>
@@ -1361,7 +1361,7 @@ Commands:
     <string name="SUDDEN_ATTACK">هجوم مفاجئ</string>
 
     <string name="sign_in_explanation" translatable="true">
-قم بتسجيل الدخول  للعِب الجماعي."
+قم بتسجيل الدخول  للَّعِب الجماعي."
 
 ستتمكن من:
 - اللعب والتواصل مع لاعبين آخرين حول العالم
